@@ -12,11 +12,11 @@ body{
 
 #text-shadow{
   padding:0 40px;
-  font-size: 40px;
+  font-size: 30px;
 }
 
 .drop_shadow{text-shadow:2px 2px 3px gray;}
 
 .bebel      {color:silver;
              text-shadow: -1px -1px 0px white,
-                           1px  1px opx darkgray;}
+                           1px  1px 0px darkgray;}
