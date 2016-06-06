@@ -42,6 +42,14 @@ body{
   white    50%);
 }
 
+.transform{
+  font-size:5px;
+  width:100px;
+  text-align:center;
+  padding:45px 0px;
+  margin:20px;
+  background-color:mediumspringgreen;
+}
 .rotate{
   transform :rotate(30deg);
 }
