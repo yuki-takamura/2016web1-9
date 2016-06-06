@@ -30,3 +30,14 @@ body{
 .box-multi_shadow {box-shadow: 0px 0px 0px 3px lightgrey inset,
                                0px 0px 0px 4px black inset,
                                2px 2px 10px 0px black; padding: 5px; margin:20px;}
+
+#gradient{
+  font-size:30px;
+}
+
+.two-gradient{
+  background-color:white;
+  background:liner-gradient(0deg,
+  orangered 0%,
+  white    50%);
+}
