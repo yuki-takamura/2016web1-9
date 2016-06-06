@@ -37,7 +37,7 @@ body{
 
 .two-gradient{
   background-color:white;
-  background:liner-gradient(0deg,
+  background:linear-gradient(0deg,
   orangered 0%,
   white    50%);
 }
