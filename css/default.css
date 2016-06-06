@@ -8,7 +8,7 @@
 body{
   background-image:url(https://raw.githubusercontent.com/yuki-takamura/2016web1-9/gh-pages/controller.jpg),
   url(https://raw.githubusercontent.com/yuki-takamura/2016web1-9/gh-pages/image1.JPG);
-  background-repeat:no-repeat,repeat;
+  background-repeat:no-repeat,no-repeat;
   background-color:lightgrey;
   margin:5px;
 }
