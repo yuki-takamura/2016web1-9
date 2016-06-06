@@ -41,3 +41,7 @@ body{
   orangered 0%,
   white    50%);
 }
+
+.rotate{
+  transform :rotate(30deg);
+}
