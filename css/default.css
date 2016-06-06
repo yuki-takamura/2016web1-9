@@ -20,3 +20,10 @@ body{
 .bebel      {color:silver;
              text-shadow: -1px -1px 0px white,
                            1px  1px 0px darkgray;}
+
+#box-shadow{
+  font-size:30px;
+}
+.box-multi_shadow {box-shadow: 0px 0px 0px 3px lightgrey inset,
+                               0px 0px 0px 4px black inset,
+                               2px 2px 10px 0px black; padding: 5px; margin:20px;}
